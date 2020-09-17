@@ -1,0 +1,17 @@
+.git
+.gitignore
+Dockerfile*
+.gitignore
+docker-compose
+README.md
+LICENSE
+.vscode
+.env
+.sh
+.idea
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env

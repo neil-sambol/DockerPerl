@@ -1,0 +1,4 @@
+# Perl Modules to install into Docker Container (like in Python)
+RUN cpan App::cpanminus
+RUN cpanm Mojolicious~8.58
+RUN cpanm Mojo::SQLite~3.004
