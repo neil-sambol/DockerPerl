@@ -2,7 +2,7 @@
 
 ## Usage:
 ```
-pd - Perl with Docker
+pld - Perl with Docker
 
 USAGE: pld [OPTION] [PATH]
 
